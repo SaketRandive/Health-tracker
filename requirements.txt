@@ -1,0 +1,9 @@
+flask
+streamlit
+requests
+numpy
+pandas
+matplotlib
+scikit-learn
+pickle-mixin
+sqlite3
